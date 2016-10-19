@@ -1,0 +1,22 @@
+#selectable .ui-selecting {
+  background: #00CCCC;
+}
+
+#selectable .ui-selected {
+  background: #00CCCC;
+  
+}
+
+
+.card{
+  background-color:#fff;
+  width:250px;
+  height:300px;
+  margin:20px;
+  border:10px solid #434343;
+  text-align:center;
+  border-radius:25px;
+
+  font-size:40px;
+
+}
